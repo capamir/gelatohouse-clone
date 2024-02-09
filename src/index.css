@@ -1,0 +1,17 @@
+:root {
+  --color-primary: rgb(60, 148, 148);
+  --color-border: rgb(230, 228, 228);
+  --bg-body: #f8fafc;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Vazirmatn FD", sans-serif;
+  direction: rtl;
+}
+
+body {
+  background-color: var(--bg-body);
+}
